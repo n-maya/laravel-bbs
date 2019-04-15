@@ -17,6 +17,9 @@
             <a class="navbar-brand" href="{{ url('') }}">
                 Laravel BBS
             </a>
+            <a class="navbar-brand" href="{{ url('') }}">
+                GitHubとの連携
+            </a>
         </div>
     </header>
 
