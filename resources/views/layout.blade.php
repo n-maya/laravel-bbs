@@ -18,7 +18,7 @@
                 Laravel BBS
             </a>
             <a class="navbar-brand" href="{{ url('') }}">
-                Automatic Deploy
+                Automatic Deploy-編集済み
             </a>
         </div>
     </header>
