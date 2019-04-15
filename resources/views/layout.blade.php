@@ -25,6 +25,7 @@
 
     <div>
         @yield('content')
+　      @yield('head')
     </div>
 </body>
 </html>
