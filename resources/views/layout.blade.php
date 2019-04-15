@@ -18,7 +18,7 @@
                 Laravel BBS
             </a>
             <a class="navbar-brand" href="{{ url('') }}">
-                GitHubとの連携
+                Automatic Deploy
             </a>
         </div>
     </header>
