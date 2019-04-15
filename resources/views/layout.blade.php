@@ -18,6 +18,11 @@
                 Laravel BBS
             </a>
         </div>
+        <div class="container">
+            <a class="navbar-brand" href="{{ url('') }}">
+                Laravel BBS
+            </a>
+        </div>
     </header>
 
     <div>
